@@ -1,0 +1,41 @@
+
+html{
+    height: 100%;
+    color:darkred;
+    font-family: verdana;      
+}
+
+main{
+    position: fixed;
+    height: 85%;
+    width:40%;
+    background-color: darkgrey;
+    left: 50%;
+    top:50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+}
+#center-img{
+   margin-top: 10px;
+   text-align: center;    
+}
+table, tr{
+    margin: auto;
+    padding: 10px;   
+    
+}
+
+input[type="submit"]{
+    width: 25%;
+    font-size: 10pt;
+    border-radius: 10px;
+    cursor: pointer;
+}
+#label{
+    padding-bottom: 20%;
+    padding-left: 30%;
+    
+}
+#input{
+    
+}
